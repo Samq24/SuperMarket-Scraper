@@ -37,7 +37,7 @@ To solve these challenges, we used **Playwright**, a modern browser automation t
 
 ---
 
-## 🚀 Technologies used
+## Technologies used
 
 - **Python 3.10+**
 - **Playwright** – headless browser automation.
@@ -48,7 +48,7 @@ To solve these challenges, we used **Playwright**, a modern browser automation t
 
 ---
 
-## ⚙️ Current functionality
+## Current functionality
 
 - Reads a list of product URLs from `links.txt`.
 - Visits each URL and extracts:
