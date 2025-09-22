@@ -29,7 +29,7 @@ Several technical issues were faced during development:
 
 ## Why Playwright?
 
-To solve these challenges, we used **Playwright**, a modern browser automation tool that:
+To solve these challenges, I used **Playwright**, a modern browser automation tool that:
 
 - Automatically waits for dynamic content to load.
 - Has better support for modern JavaScript frameworks like Vue, React, and Angular.
